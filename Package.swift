@@ -11,10 +11,6 @@ let package = Package(
             targets: ["unity-ads-ios"]),
     ],
     targets: [
-        // .target(
-        //     name: "unity-ads-ios",
-        //     path: "SourceCode"
-        // ),
         .binaryTarget(
             name: "unity-ads-ios",
             url: "https://github.com/Unity-Technologies/unity-ads-ios/releases/download/4.8.0/UnityAds.zip", 
