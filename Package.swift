@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "unity-ads-ios",
+    name: "UnityAds",
     products: [
         .library(
             name: "unity-ads-ios",
